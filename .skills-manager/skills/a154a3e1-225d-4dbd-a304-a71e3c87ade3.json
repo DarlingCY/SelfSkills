@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a154a3e1-225d-4dbd-a304-a71e3c87ade3",
+  "path": "worktrees",
+  "path_key": "worktrees",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/worktrees",
+    "subpath": "src\\skills\\worktrees",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "facf9fda-a087-4a1f-a1cf-b03369f96e09",
+  "path": "release-smoke-test",
+  "path_key": "release-smoke-test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/release-smoke-test",
+    "subpath": ".agents\\skills\\release-smoke-test",
+    "branch": null
+  }
+}

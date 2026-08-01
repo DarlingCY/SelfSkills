@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42b8b549-e262-4d48-b677-d562a05feb4e",
+  "path": "oh-my-opencode-slim",
+  "path_key": "oh-my-opencode-slim",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/oh-my-opencode-slim",
+    "subpath": "src\\skills\\oh-my-opencode-slim",
+    "branch": null
+  }
+}

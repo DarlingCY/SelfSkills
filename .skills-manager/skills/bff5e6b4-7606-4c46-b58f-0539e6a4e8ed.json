@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bff5e6b4-7606-4c46-b58f-0539e6a4e8ed",
+  "path": "codebase-design",
+  "path_key": "codebase-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/codebase-design",
+    "subpath": "skills\\engineering\\codebase-design",
+    "branch": null
+  }
+}

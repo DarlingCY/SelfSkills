@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92f78f60-8464-41f4-bfc8-58671ad93aeb",
+  "path": "codemap",
+  "path_key": "codemap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/codemap",
+    "subpath": "src\\skills\\codemap",
+    "branch": null
+  }
+}

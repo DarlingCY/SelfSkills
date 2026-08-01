@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b7e534c-d54b-4e30-beea-08d889f623fc",
+  "path": "clonedeps",
+  "path_key": "clonedeps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/clonedeps",
+    "subpath": "src\\skills\\clonedeps",
+    "branch": null
+  }
+}

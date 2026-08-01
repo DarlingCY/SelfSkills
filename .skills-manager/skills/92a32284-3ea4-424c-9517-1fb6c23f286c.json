@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92a32284-3ea4-424c-9517-1fb6c23f286c",
+  "path": "simplify",
+  "path_key": "simplify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/simplify",
+    "subpath": "src\\skills\\simplify",
+    "branch": null
+  }
+}

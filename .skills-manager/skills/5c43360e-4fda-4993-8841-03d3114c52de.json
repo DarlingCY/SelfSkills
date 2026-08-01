@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c43360e-4fda-4993-8841-03d3114c52de",
+  "path": "reflect",
+  "path_key": "reflect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alvinunreal/oh-my-opencode-slim/reflect",
+    "subpath": "src\\skills\\reflect",
+    "branch": null
+  }
+}
