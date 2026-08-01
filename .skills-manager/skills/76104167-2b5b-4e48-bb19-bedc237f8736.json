@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76104167-2b5b-4e48-bb19-bedc237f8736",
+  "path": "talking-head-recut",
+  "path_key": "talking-head-recut",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

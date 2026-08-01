@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "116e5581-7d35-4f10-8527-bf406ae309d6",
+  "path": "slideshow",
+  "path_key": "slideshow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

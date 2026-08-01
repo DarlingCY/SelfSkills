@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4f20c4a-1d3b-4b80-a44c-34095e69977a",
+  "path": "music-to-video",
+  "path_key": "music-to-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

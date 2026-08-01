@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd66aaf3-d9f0-4d32-8a55-8a58d4834cb5",
+  "path": "pr-to-video",
+  "path_key": "pr-to-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

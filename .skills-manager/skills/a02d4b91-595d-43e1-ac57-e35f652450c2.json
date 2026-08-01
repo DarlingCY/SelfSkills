@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a02d4b91-595d-43e1-ac57-e35f652450c2",
+  "path": "motion-graphics",
+  "path_key": "motion-graphics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

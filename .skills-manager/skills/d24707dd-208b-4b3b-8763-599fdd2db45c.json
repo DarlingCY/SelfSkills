@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d24707dd-208b-4b3b-8763-599fdd2db45c",
+  "path": "caveman-commit",
+  "path_key": "caveman-commit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
