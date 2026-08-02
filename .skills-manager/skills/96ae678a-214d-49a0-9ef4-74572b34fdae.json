@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96ae678a-214d-49a0-9ef4-74572b34fdae",
+  "path": "minimax-docx",
+  "path_key": "minimax-docx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "minimax-ai/skills/minimax-docx",
+    "subpath": "skills\\minimax-docx",
+    "branch": null
+  }
+}
