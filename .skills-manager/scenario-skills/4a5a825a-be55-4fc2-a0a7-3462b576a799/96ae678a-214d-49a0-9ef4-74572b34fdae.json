@@ -5,7 +5,7 @@
   "sort_order": 1,
   "tools": {
     "codex": false,
-    "github_copilot": true,
+    "github_copilot": false,
     "opencode": true
   }
 }
