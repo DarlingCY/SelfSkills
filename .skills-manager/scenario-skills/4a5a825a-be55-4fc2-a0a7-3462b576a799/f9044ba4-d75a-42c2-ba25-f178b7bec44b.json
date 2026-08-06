@@ -6,6 +6,7 @@
   "tools": {
     "codex": false,
     "github_copilot": false,
-    "opencode": true
+    "opencode": true,
+    "pi": true
   }
 }
